@@ -1,0 +1,4 @@
+*.hex
+*_array.c
+*.elf
+*.o
